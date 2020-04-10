@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## About this project
+Little project in MVC to discover Laravel's features and use making :
+- An authentification feature (signin and login),
+- A wall feature : you can write any words you wants on the wall if you are connected,
+- Intalled 2 packages : Reliese laravel and a debugbar,
+- Connection with a movie database,
+- Display movie using pagination with their genre and distributors,
+- Relationship between tables movie, genre and distributor,
+- Eager loading instead of lazy loading,
+- 2 commands line : how much movie and how much movie in a particular genre
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
